@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1 class="title" border="thick double #1093c7">Hey👋, I'm Dhruv!</h1>
-<img class="gif"alt="Coding" width="400"
+<img class="gif"alt="Coding" width="600" height="400"
 src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47e1fkss8alnvnbo13m3mg7pz3yfoiapj1gorcszq3&rid=giphy.gif&ct=g">
 <br>
 
